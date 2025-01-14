@@ -1,6 +1,4 @@
 {
-  "versionCode": 7,
-  "versionName": "2.2.1",
-  "apkUrl": "https://github.com/DEVPlatForm4224/App-Update/releases/download/v2.2.1/app-debug.apk",
-  "changelog": "- New feature 1\n- Improved performance\n- Bug fixes.jfladsjgioerhworqhg............."
+  "versionCode": 8,
+  "apkUrl": "https://github.com/DEVPlatForm4224/App-Update/releases/download/v2.2.2/app-debug.apk",
 }
