@@ -1,0 +1,4 @@
+{
+  "versionCode": 1,
+  "apkUrl": "https://github.com/DEVPlatForm4224/App-Update/releases/download/v1.0.0/app-debug.apk"
+}
