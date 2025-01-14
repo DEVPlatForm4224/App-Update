@@ -1,4 +1,4 @@
 {
-  "versionCode": 11,
-  "apkUrl": "https://github.com/DEVPlatForm4224/App-Update/releases/download/v2.2.5/app-debug.apk"
+  "versionCode": 12,
+  "apkUrl": "https://github.com/DEVPlatForm4224/App-Update/releases/download/v2.2.6/app-debug.apk"
 }
