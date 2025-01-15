@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "2.3.0",
-  "apkUrl": "https://github.com/DEVPlatForm4224/App-Update/releases/download/v2.3.0/app-debug.apk",
-  "changelog": "- New feature 2\n- Improved performance\n- Bug fixes\n- UI improvements for smoother navigation\n- Enhanced security with new encryption methods\n- Fixed crash issue on startup\n- Optimized battery usage\n- Support for multiple languages\n- Reduced app size for quicker installation\n- In UpdateActivity add the feature of IN App Update"
+  "versionCode": 17,
+  "versionName": "2.3.1",
+  "apkUrl": "https://github.com/DEVPlatForm4224/App-Update/releases/download/v2.3.1/app-debug.apk",
+  "changelog": "- New feature 2\n- Improved performance\n- Bug fixes\n- UI improvements for smoother navigation\n- Enhanced security with new encryption methods\n- Fixed crash issue on startup\n- Optimized battery usage\n- Support for multiple languages\n- Reduced app size for quicker installation\n- In UpdateActivity add the feature of IN App Update....."
 }
 
 
